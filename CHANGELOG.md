@@ -31,17 +31,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - add println for message 8
 - mark pre-release versions as GitHub pre-releases
 
-## [1.1.0-rc.1](https://github.com/3nabla3/rlz-ex/compare/v1.0.0-rc.1...v1.1.0-rc.1) - 2026-10-09
+## [1.1.0-rc.1](https://github.com/3nabla3/rlz-ex/compare/v1.0.0...v1.1.0-rc.1) - 2026-10-09
 
 ### Other
 
 - version bump only, no code changes
-
-## [1.0.0-rc.1](https://github.com/3nabla3/rlz-ex/compare/v1.0.0...v1.0.0-rc.1) - 2026-10-09
-
-### Other
-
-- version bump only, no code changes (tagged after 1.0.0)
 
 ## [1.0.0](https://github.com/3nabla3/rlz-ex/compare/v0.1.3...v1.0.0) - 2026-10-09
 
