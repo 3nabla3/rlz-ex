@@ -12,4 +12,5 @@ fn main() {
     println!("Message 6");
     println!("Message 7");
     println!("Message 8");
+    println!("Message 9");
 }
