@@ -7,6 +7,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0-rc.4](https://github.com/3nabla3/rlz-ex/compare/v1.0.0...v1.1.0-rc.4) - 2026-10-09
+
+### Added
+
+- add message 9
+- 7
+- 6
+
+### Fixed
+
+- remove message 5
+
+### Other
+
+- release v1.1.0-rc.4
+- release v1.1.0-rc.3
+- release v1.1.0-rc.2
+- add println for message 8
+- mark pre-release versions as GitHub pre-releases
+- release v1.1.0-rc.1
+- 1.1.0-rc.1
+- rc1
+
 ## [1.1.0-rc.3](https://github.com/3nabla3/rlz-ex/compare/v1.1.0-rc.2...v1.1.0-rc.3) - 2026-10-09
 
 ### Fixed
