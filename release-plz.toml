@@ -1,2 +1,3 @@
 [workspace]
 git_only = true
+git_release_type = "auto"
