@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0-rc.3](https://github.com/3nabla3/rlz-ex/compare/v1.1.0-rc.2...v1.1.0-rc.3) - 2026-10-09
+
+### Fixed
+
+- remove message 5
+
 ## [1.1.0-rc.2](https://github.com/3nabla3/rlz-ex/compare/v1.0.0...v1.1.0-rc.2) - 2026-10-09
 
 ### Added
